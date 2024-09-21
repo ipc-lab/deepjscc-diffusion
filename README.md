@@ -21,7 +21,7 @@ This repository contains the implementation of the paper "High Perceptual Qualit
 Please cite the paper if this code or paper has been useful to you:
 
 ```
-@INPROCEEDINGS{yilmaz2024distributed,
+@INPROCEEDINGS{yilmaz2024perceptual,
   author={Yilmaz, Selim F. and Niu, Xueyan and Bai, Bo and Han, Wei and Deng, Lei and Gündüz, Deniz},
   booktitle={IEEE Conference on Computer Communications Workshops}, 
   title={High Perceptual Quality Wireless Image Delivery with Denoising Diffusion Models}, 
