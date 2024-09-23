@@ -7,7 +7,6 @@ This repository contains the implementation of the paper "High Perceptual Qualit
 
 ## Table of Contents
 - [High Perceptual Quality Wireless Image Delivery with Denoising Diffusion Models (INFOCOM 2024 DeepWireless Workshop)](#high-perceptual-quality-wireless-image-delivery-with-denoising-diffusion-models-infocom-2024-deepwireless-workshop)
-  - [Table of Contents](#table-of-contents)
   - [Citation](#citation)
   - [Abstract](#abstract)
   - [Installation](#installation)
